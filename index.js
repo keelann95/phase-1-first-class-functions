@@ -17,9 +17,4 @@ function receivesAFunction(callback) {
     };
   }
   
-  module.exports = {
-    receivesAFunction,
-    returnsANamedFunction,
-    returnsAnAnonymousFunction
-  };
   
